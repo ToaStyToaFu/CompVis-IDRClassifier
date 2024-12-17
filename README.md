@@ -1,4 +1,4 @@
-# Rupiah Currency Recognition System for Visually Impaired Individuals
+# Rupiah Currency Recognition System
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
